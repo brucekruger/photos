@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Photos": {
+      "commandName": "Project",
+      "commandLineArgs": "start --verbose"
+    }
+  }
+}
